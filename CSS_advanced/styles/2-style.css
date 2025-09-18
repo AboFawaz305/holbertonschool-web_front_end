@@ -1,0 +1,17 @@
+/* Add smooth scrolling to the page */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Setup page colors */
+body,
+a {
+  color: #161616;
+}
+.visually-hidden {
+  display: none;
+}
+.card-category,
+.section-tagline {
+  color: #d73953;
+}
